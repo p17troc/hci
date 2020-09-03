@@ -13,9 +13,9 @@ title                    : "Ο Προγραμματισμός της Διάδρ�
 title_separator          : "-"
 name                     : "mibook"
 description              : "Making Interactivity Greek Book."
-url                      : "https://ChrisKyratzis.github.io"
+url                      : "https://p17troc.github.io"
 baseurl                  : "/gr"
-repository               : "ChrisKyratzis/gr"
+repository               : "p17troc/gr"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
@@ -64,7 +64,7 @@ author:
   location         :
   email            :
   uri              :
-  home             : "https://ChrisKyratzis.github.io/gr"
+  home             : "https://p17troc.github.io/gr"
   bitbucket        :
   codepen          :
   dribbble         :
